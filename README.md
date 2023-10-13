@@ -8,24 +8,24 @@ its a JS runtime \
 that allows us to create server side applications and networking applications \
 it porivides libraries \
 allows us to interact with hardware and OS \
-it is popular because its event-driven, non-blocking I/O and lightweight \
+it is popular because its event-driven, non-blocking I/O and lightweight
 
 * what is Event-driven programming / Event-driven Architecture?
 
-its a programming paradigm(style) that is built around the concept of events and their listeners, here the flow of execution is determined by events
-evnts can be user inputs or data arriving over the network or completion of a task
-there is an event loop that listens to events and calls event listeners that contain logic to take appropriate action.
-there is also an event Queue that holds events in the order they occur so as to to process them sequentially.
-used in:
-Graphical user interfaces (GUIs)
-Web applications
-Networking
-Real-time systems
+its a programming paradigm(style) that is built around the concept of events and their listeners, here the flow of execution is determined by events \
+evnts can be user inputs or data arriving over the network or completion of a task \
+there is an event loop that listens to events and calls event listeners that contain logic to take appropriate action. \
+there is also an event Queue that holds events in the order they occur so as to to process them sequentially. \
+used in: \
+Graphical user interfaces (GUIs) \
+Web applications \
+Networking \
+Real-time systems \
 Embedded systems
 
 * what are events?
 
-An important interaction that happens with program
+An important interaction that happens with a computer program
 
 * what is Asynchronous I/O?
 
